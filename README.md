@@ -36,7 +36,7 @@
 5. Demo
   
 
-https://github.com/Hieptm2002/Android-demo-app-Skin-Analysis/assets/91860427/87ef71bc-61c9-4e6b-beae-29c818430a4c
+https://github.com/user-attachments/assets/9dc8c405-914a-4fb2-a1e9-4b2f79b55ae7
 
 
 6. Difficulty
@@ -56,7 +56,7 @@ https://github.com/Hieptm2002/Android-demo-app-Skin-Analysis/assets/91860427/87e
 5. Demo
 
 
-https://github.com/Hieptm2002/Android-demo-app-Skin-Analysis/assets/91860427/6a3f610c-2fca-40ae-866a-c426756eaf0e
+https://github.com/user-attachments/assets/6815b504-ea25-42c0-b83d-9825b6ada74b
 
 
 6. Difficulty

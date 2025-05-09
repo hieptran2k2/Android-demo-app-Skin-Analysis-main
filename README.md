@@ -1,5 +1,7 @@
 # Android-demo-app-Facial-Skin-Analysis
 
+**Paper:** [10.1109/ATC63255.2024.10908151](https://ieeexplore.ieee.org/document/10908151)
+
 ## Data preparation
 
 1. Collected data.
